@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shamim Reja</h1>
+<h1 align="center">Hi 👋, I'm Md. Rayhan Kobir</h1>
 <h3 align="center">WordPress Developer | UI/UX Designer | Frontend Developer | AI Enthusiast</h3>
 
 <p align="center">
