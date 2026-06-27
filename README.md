@@ -14,7 +14,6 @@ I'm passionate about building modern websites, premium UI experiences, and intel
 - ⚛️ Learning React & Next.js
 - 🤖 AI & Machine Learning Enthusiast
 - 🌱 Currently improving my Full Stack Development skills
-- 📫 Email: your-email@example.com
 
 ---
 
